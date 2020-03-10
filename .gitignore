@@ -1,2 +1,3 @@
 server/lostFundServer/provider/target/
-*.original
+server/lostFundServer/api/target/
+server/lostFundServer/consumer/target/
