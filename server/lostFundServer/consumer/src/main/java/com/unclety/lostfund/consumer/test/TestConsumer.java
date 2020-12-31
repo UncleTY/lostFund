@@ -18,6 +18,7 @@ public class TestConsumer {
         System.out.println("master");
         System.out.println("merge");
         String hello = testService.sayHello("world");
+        System.out.println("rebase");
         System.out.println(testService.sayHello("BJQ"));
         return hello;
     }
